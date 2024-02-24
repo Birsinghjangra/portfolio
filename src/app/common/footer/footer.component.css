@@ -1,0 +1,12 @@
+#scrollToTopButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 32px;
+}
+.social-links .link:not(:last-child) {
+    margin-right: 3px;
+}
+.link {
+    text-decoration: none;
+}
